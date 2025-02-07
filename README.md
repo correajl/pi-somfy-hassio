@@ -7,6 +7,8 @@ What is different from original repository:
 * Python virtual environment is created.
 * run.sh script turned into a bash and uses source to import virtual environment.
 
+**How to use**
+
 1. Connect to your raspberry hassio host over ssh
 2. `git clone https://github.com/correajl/pi-somfy-hassio.git addons/somfy`
 3. Navigate to `https://YOUR_HASSIO/hassio/store` if using SSL or `http://YOUR_HASSIO/hassio/store` if not. 
