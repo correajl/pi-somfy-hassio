@@ -2,7 +2,7 @@
 
 This repository contains minimal implementation allowing to run Pi-Somfy as a HASSIO add-on.
 
-This is a customization for run in Raspberry Pi 4. 
+This is a customization to run in Raspberry Pi 4. 
 
 What is different from original repository:
 * Dockerfile configured to install and use bash instead of sh.
