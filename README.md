@@ -6,6 +6,7 @@ What is different from original repository:
 * Dockerfile configured to install and use bash instead of sh.
 * Python virtual environment is created.
 * run.sh script turned into a bash and uses source to import virtual environment.
+* Some versions locked to work in **Raspberry Pi 4**. 
 
 **How to use**
 
